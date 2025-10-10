@@ -1,0 +1,88 @@
+\documentclass[11pt]{article}
+\usepackage[letterpaper,top=0.5in,bottom=0.5in,left=0.5in,right=0.5in]{geometry}
+\usepackage{XCharter}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage{enumitem}
+\usepackage[hidelinks]{hyperref}
+\usepackage{titlesec}
+\raggedright
+\pagestyle{empty}
+
+\input{glyphtounicode}
+\pdfgentounicode=1
+
+\titleformat{\section}{\bfseries\large}{}{0pt}{}[\vspace{1pt}\titlerule\vspace{-6.5pt}]
+\renewcommand\labelitemi{$\vcenter{\hbox{\small$\bullet$}}$}
+\setlist[itemize]{itemsep=-2pt, leftmargin=12pt, topsep=7pt}
+
+\begin{document}
+
+% name
+\centerline{\Huge Artem Mozgovoi}
+
+\vspace{5pt}
+
+% contact information
+\centerline{\href{mailto:artiom.mozgovoy@gmail.com}{artiom.mozgovoy@gmail.com} | +4915906428012 | Remote, EMEA}
+\centerline{\href{https://www.linkedin.com/in/artem-mozgovoi}{linkedin.com/in/artem-mozgovoi} | \href{https://github.com/layonez}{github.com/layonez} | \href{https://stackoverflow.com/users/2204146/layonez}{stackoverflow.com/users/2204146} | Remote, EMEA}
+
+\vspace{-10pt}
+
+% summary
+\section*{Summary}
+Senior Software Engineer (TypeScript/Java) building reusable UI frameworks and large-scale web platforms. Deliver end-to-end features with Product/Design, improve architecture and performance, and ship reliably: $-$60\% CI credits, +30\% pipeline performance, +30\% site performance, 95\% on-time
+
+% skills
+\section*{Skills}
+\textbf{Languages:} TypeScript, JavaScript, Java, SQL \\
+\textbf{Frontend:} React, Webpack, Microfrontends (Module Federation), SSR \\
+\textbf{Backend/Platform:} Node.js, Spring Boot, Kafka, Kubernetes, AWS, Nginx \\
+\textbf{Quality/Obs:} CI/CD (GitHub/GitLab/Jenkins), Testing, Dynatrace, SLIs/SLOs \\
+\textbf{Foundations:} Data structures \& algorithms, system design, content platforms
+
+\vspace{-6.5pt}
+
+% experience
+\section*{Experience}
+\textbf{Senior/Lead Engineer,} SAP Signavio \hfill Jan 2023 -- Present \\
+\vspace{-9pt}
+\begin{itemize}
+  \item Reengineered CI/CD by decoupling client/server deployments, reducing CI credits 60\% and improving pipeline performance 30\%
+  \item Migrated SAP UI5 v1$\to$v2 across three repositories with an isolation layer for shared components, reducing layout issues and build breakages
+  \item Established observability with Dynatrace and proactive incident workflows; partnered with SRE on on-call to tighten MTTR and availability
+  \item Instituted documentation-first workflows (RFCs, decision logs) to accelerate async collaboration
+\end{itemize}
+
+\textbf{Tech Lead,} Westwing \hfill Apr 2021 -- Dec 2023 \\
+\vspace{-9pt}
+\begin{itemize}
+  \item Designed and implemented microfrontend architecture with Webpack Module Federation, increasing development speed 20\% and decreasing deployment time 25\%
+  \item Implemented SSR boundaries and shared UI packages to build reusable, extensible frontends; improved site performance 30\% using SpeedCurve/New Relic
+  \item Delivered end-to-end features with Product/Design; owned KPIs and sustained 95\% on-time delivery
+\end{itemize}
+
+\textbf{Tech Lead,} Autretech LLC (FinTech) \hfill Jan 2019 -- Apr 2021 \\
+\vspace{-9pt}
+\begin{itemize}
+  \item Developed algorithms revealing financial market manipulation (Java/TypeScript); delivered integrations within a large bank
+  \item Built frontend architecture and team processes from zero-to-one; managed 5--6 engineers; established release cadence and quality bars
+  \item Partnered with Backend/Data to design event-driven services (Kafka) and API contracts
+\end{itemize}
+
+\vspace{-6.5pt}
+
+% selected open source
+\section*{Selected Open Source}
+\textbf{kafka-example:} Example Spring Boot + Kafka stack \hfill \href{https://github.com/layonez/kafka-example}{github.com/layonez/kafka-example} \\
+\textbf{use-request-animation-frame:} React hook \hfill \href{https://github.com/layonez/use-request-animation-frame}{github.com/layonez/use-request-animation-frame}
+
+\vspace{-6.5pt}
+
+% education
+\section*{Education}
+\textbf{BMSTU} -- Specialist, Robotics and Complex Automation \hfill 2014
+
+\end{document}
+
+

@@ -1,0 +1,64 @@
+**TL;DR**: Use a clean 1-page, single-column resume (2 pages only if 10+ years). Write impact-first bullets with STAR/CAR/XYZ, quantify results, and tailor keywords to the JD. Show open-source proof on GitHub/GitLab and link it. Keep formatting ATS-safe: standard headings, black text, no icons, no tables/columns, right-aligned dates. EU nuance: longer CVs and headshots are more accepted. ([Reddit][1])
+
+---
+
+### Step-by-step best practices pulled from subreddit wikis and hiring blogs
+
+1. **Format for readability and ATS**
+
+* Single column. No icons, graphics, tables, or multi-column layouts. Font ≥10.5, black text, generous white space and margins. Don’t justify text. ([Reddit][1])
+* Keep to **1 page per decade** of experience; 2 pages only if you’re senior/staff with dense relevant impact. ([Reddit][1])
+* Use standard section headers. Avoid fancy labels. Prefer text-based PDF or DOCX; ensure the PDF is selectable text. Avoid headers/footers that hide content from parsers. ([indeed.com][2])
+* Dates: use “Present”, spell months or standard abbrev, use an **en dash** with spaces, right-align dates; bullets should not extend past the date column. ([Reddit][1])
+* **EU nuance**: European CVs are often longer; Europass template is accepted but plain. Headshots are common in some countries. ([Reddit][3])
+* **Myth check**: Modern ATS aren’t pure auto-reject robots; humans still review. Tailor, don’t try to “game” ATS. ([Lever][4])
+
+2. **Write high-signal bullets**
+
+* Use STAR/CAR/XYZ. One sentence per bullet, 1–2 lines, no personal pronouns, no ending periods. Order bullets by relevance and impressiveness. ([Reddit][1])
+* Examples:
+
+  * “Cut CI time **35%** by caching pnpm deps and parallelizing Cypress runs.”
+  * “Drove **+28%** SDK adoption by overhauling docs, adding typed examples, and a migration guide.”
+* r/resumes also endorses PAR/STAR and result-first patterns. ([Reddit][5])
+
+3. **Prioritize sections correctly**
+
+* Put your most compelling, relevant content at the top-left of the page. Tailor to each JD with its language and context. ([Reddit][1])
+* **Work experience**: achievements and context, not job duties; add tangible metrics. Clearly mark internships or contracts. ([Reddit][1])
+* **Skills**: keep readable lists, avoid multi-column grids, no “skill meters”. Focus on capabilities behind tools, not just tool names. ([Reddit][1])
+* **Projects**: bullets, not paragraphs; order by relevance; link to repos. ([Reddit][1])
+* **Senior/Staff**: brief 1–2 sentence summary is OK; keep ≤2 pages; maintain separate IC vs. management versions; note influence as well as impact. ([Reddit][1])
+
+4. **Make it ATS-safe without overthinking**
+
+* Use simple layout and standard headings; avoid graphics and columns; consistency in dates and formatting matters. ([Jobscan][6])
+* Keywords still matter because recruiters **search** by them; mirror the JD where accurate. ([Jobscan][7])
+
+5. **Dev-tools companies (GitLab, GitHub) care about OSS proof**
+
+* Link GitHub/GitLab. Pin repos. Show merged PRs, issues triaged, docs you shipped, packages released, stars/downloads, and community impact. GitLab explicitly states strong OSS presence helps candidates. ([about.gitlab.com][8])
+* GitHub’s own career content advises **quantifying impact** and optimizing your GitHub profile; they run resume-polish sessions at Universe. ([The GitHub Blog][9])
+
+7. **What to leave out**
+
+* Random hobbies unrelated to the role, over-bolding, ALL CAPS, italics spam, visually clever but unreadable layouts. ([Reddit][1])
+
+---
+
+### Useful considerations
+
+* **Link hygiene**: make all links clickable and human-readable (GitHub profile, portfolio, key repos, npm packages, talks). Many ATS preserve URLs. ([indeed.com][2])
+* **Context lines**: for each company, 1 short line with product, scale, and stack helps reviewers parse impact fast. ([Reddit][1])
+* **EU specifics per country**: check if headshots or longer CVs are expected where you apply; adjust versions accordingly. ([Reddit][3])
+
+[1]: https://www.reddit.com/r/EngineeringResumes/wiki/index/ "r/EngineeringResumes"
+[2]: https://www.indeed.com/career-advice/resumes-cover-letters/ats-resume-template?utm_source=chatgpt.com "How To Write an ATS Resume (With Template and Tips)"
+[3]: https://www.reddit.com/r/cscareerquestionsEU/wiki/faq/ "CS Career Questions Europe"
+[4]: https://www.lever.co/blog/applicant-tracking-system-myths/ "5 Applicant Tracking System Myths, Debunked - Lever"
+[5]: https://www.reddit.com/r/resumes/wiki/index/faq/ "Resumes"
+[6]: https://www.jobscan.co/blog/resume-tables-columns-ats/?utm_source=chatgpt.com "Can the ATS Read Tables and Columns on Your Resume?"
+[7]: https://www.jobscan.co/blog/greenhouse-ats-what-job-seekers-need-to-know/?utm_source=chatgpt.com "Greenhouse ATS: What Job Seekers Need to Know"
+[8]: https://about.gitlab.com/blog/contribute-to-open-source-land-jobs/?utm_source=chatgpt.com "How contributing to open source can help you land your ..."
+[9]: https://github.blog/developer-skills/career-growth/lets-talk-about-tech-internships/?utm_source=chatgpt.com "Let's talk about tech internships"
+[10]: https://about.gitlab.com/jobs/ai-interview-process/ "Using AI in the interview process"

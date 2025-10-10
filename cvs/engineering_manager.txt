@@ -1,0 +1,37 @@
+ARTEM MOZGOVOI
+Remote, EMEA | +49 163 833 0369 | Artiom.mozgovoy@gmail.com
+
+SUMMARY
+Hybrid engineering leader (manager/architect) delivering results in high-availability web platforms. Led 10+ engineers across time zones, ran 1:1s/coaching, roadmaps and KPIs, and partnered with SRE for incident readiness. Track record: −60% CI credits, +30% pipeline performance, +30% site performance, 95% on-time delivery. Practices Results, Iteration, Transparency; operates remote-first and documentation-first
+
+CORE STRENGTHS
+Leadership: hiring, 1:1s/coaching, roadmaps/OKRs, cross-functional alignment, remote/async
+Reliability & Platform: CI/CD, Kubernetes, AWS, observability (Dynatrace), incident management
+Delivery & Architecture: microfrontends (Module Federation), SSR (Node/Express), isolation boundaries, TypeScript/React
+
+EXPERIENCE
+Lead Engineer — SAP Signavio (sap.com/signavio)  Jan 2023 – Present
+- Reengineered CI/CD by decoupling client/server deployments, reducing CI credits 60% and improving pipeline performance 30%
+- Migrated SAP UI5 components v1→v2 across three repositories with an isolation layer for shared components, reducing layout issues and build breakages
+- Established observability with Dynatrace and proactive incident workflows; partnered with SRE on on-call to tighten MTTR and availability
+
+Tech Lead — Westwing  Apr 2021 – Dec 2023
+- Designed and implemented microfrontend architecture with Webpack Module Federation, increasing development speed 20% and decreasing deployment time 25%
+- Owned roadmaps and KPIs; delivered 95% on-time; improved site performance 30% using SpeedCurve and New Relic
+- Led and mentored 10+ developers; partnered across Product/Design to ship core features and elevate UX
+
+Tech Lead — Autretech LLC (FinTech)  Jan 2019 – Apr 2021
+- Built frontend architecture, UI/UX, and team processes from zero-to-one; managed a team of 5–6 engineers
+- Developed algorithms to reveal financial market manipulation; integrated and delivered within a large bank
+- Drove customer discovery, prioritized roadmap, and established release cadence and quality bars
+
+SKILLS
+Leadership & Management: Hiring, 1:1s, Coaching, Agile delivery, OKRs/KPIs, Remote/async
+Platform & Reliability: CI/CD (GitLab/GitHub/Jenkins), Kubernetes, AWS, Observability (Dynatrace), Nginx
+Web Engineering: TypeScript, React, Node.js, GraphQL, Webpack, Microfrontends
+Data/Back-end exposure: Java/Spring Boot, C#/ASP.NET, SQL, Kafka
+
+EDUCATION
+BMSTU — Specialist, Robotics and Complex Automation (2014)
+
+

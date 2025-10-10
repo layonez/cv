@@ -1,0 +1,13 @@
+# Ignore everything except the LaTeX sources we need
+*.pdf
+*.log
+*.aux
+*.out
+*.toc
+*.gz
+*.synctex(busy)
+*.synctex.gz
+# Keep template.tex explicitly
+!template.tex
+!Dockerfile
+!Makefile

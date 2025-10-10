@@ -1,0 +1,38 @@
+ARTEM MOZGOVOI
+Munich, Germany | +49 163 833 0369 | Artiom.mozgovoy@gmail.com | linkedin.com/in/artem-mozgovoi | github.com/layonez | stackoverflow.com/users/2204146
+
+SUMMARY
+Senior Software Engineer (TypeScript/Java) building reusable UI frameworks and large-scale web platforms. Deliver end-to-end features with Product/Design, improve architecture and performance, and ship reliably: −60% CI credits, +30% pipeline performance, +30% site performance, 95% on-time
+
+SKILLS
+Languages: TypeScript, JavaScript, Java, SQL
+Frontend: React, Webpack, Microfrontends (Module Federation), SSR
+Backend/Platform: Node.js, Spring Boot, Kafka, Kubernetes, AWS, Nginx
+Quality/Obs: CI/CD (GitHub/GitLab/Jenkins), Testing, Dynatrace, SLIs/SLOs
+Foundations: Data structures & algorithms, system design, content platforms
+
+EXPERIENCE
+Senior/Lead Engineer — SAP Signavio (sap.com/signavio)  Jan 2023 – Present
+- Reengineered CI/CD by decoupling client/server deployments, reducing CI credits 60% and improving pipeline performance 30%
+- Migrated SAP UI5 v1→v2 across three repositories with an isolation layer for shared components, reducing layout issues and build breakages
+- Established observability with Dynatrace and proactive incident workflows; partnered with SRE on on-call to tighten MTTR and availability
+- Instituted documentation-first workflows (RFCs, decision logs) to accelerate async collaboration
+
+Tech Lead — Westwing  Apr 2021 – Dec 2023
+- Designed and implemented microfrontend architecture with Webpack Module Federation, increasing development speed 20% and decreasing deployment time 25%
+- Implemented SSR boundaries and shared UI packages to build reusable, extensible frontends; improved site performance 30% using SpeedCurve/New Relic
+- Delivered end-to-end features with Product/Design; owned KPIs and sustained 95% on-time delivery
+
+Tech Lead — Autretech LLC (FinTech)  Jan 2019 – Apr 2021
+- Developed algorithms revealing financial market manipulation (Java/TypeScript); delivered integrations within a large bank
+- Built frontend architecture and team processes from zero-to-one; managed 5–6 engineers; established release cadence and quality bars
+- Partnered with Backend/Data to design event-driven services (Kafka) and API contracts
+
+SELECTED OPEN SOURCE
+- kafka-example (Java, Kafka, Docker Compose): example Spring Boot + Kafka stack — github.com/layonez/kafka-example
+- use-request-animation-frame (TypeScript): React hook for requestAnimationFrame — github.com/layonez/use-request-animation-frame
+
+EDUCATION
+BMSTU — Specialist, Robotics and Complex Automation (2014)
+
+
