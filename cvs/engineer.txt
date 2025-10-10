@@ -15,12 +15,12 @@ EXPERIENCE
 Senior/Lead Engineer — SAP Signavio (sap.com/signavio)  Jan 2023 – Present
 - Reengineered CI/CD by decoupling client/server deployments, reducing CI credits 60% and improving pipeline performance 30%
 - Migrated SAP UI5 v1→v2 across three repositories with an isolation layer for shared components, reducing layout issues and build breakages
-- Established observability with Dynatrace and proactive incident workflows; partnered with SRE on on-call to tighten MTTR and availability
+- Established observability with Dynatrace, Grafana, and Kibana and proactive incident workflows; partnered with SRE on on-call to tighten MTTR and availability
 - Instituted documentation-first workflows (RFCs, decision logs) to accelerate async collaboration
 
 Tech Lead — Westwing  Apr 2021 – Dec 2023
 - Designed and implemented microfrontend architecture with Webpack Module Federation, increasing development speed 20% and decreasing deployment time 25%
-- Implemented SSR boundaries and shared UI packages to build reusable, extensible frontends; improved site performance 30% using SpeedCurve/New Relic
+- Implemented SSR boundaries and shared UI packages to build reusable, extensible frontends; improved site performance 30% using SpeedCurve, New Relic, and Grafana/Kibana
 - Delivered end-to-end features with Product/Design; owned KPIs and sustained 95% on-time delivery
 
 Tech Lead — Autretech LLC (FinTech)  Jan 2019 – Apr 2021
