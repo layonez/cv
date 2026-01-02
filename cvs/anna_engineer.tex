@@ -1,0 +1,92 @@
+\documentclass[11pt]{article}
+\usepackage[letterpaper,top=0.5in,bottom=0.5in,left=0.5in,right=0.5in]{geometry}
+\usepackage{XCharter}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage{enumitem}
+\usepackage[hidelinks]{hyperref}
+\usepackage{titlesec}
+\raggedright
+\pagestyle{empty}
+
+\input{glyphtounicode}
+\pdfgentounicode=1
+
+% Section formatting
+\titleformat{\section}{\bfseries\large}{}{0pt}{}[\vspace{1pt}\titlerule\vspace{-6.5pt}]
+
+% Bullet list formatting
+\renewcommand\labelitemi{$\vcenter{\hbox{\small$\bullet$}}$}
+\setlist[itemize]{itemsep=-2pt, leftmargin=12pt, topsep=7pt}
+
+\begin{document}
+
+% Name
+\centerline{\Huge Anna Perevoznikova}
+
+\vspace{5pt}
+
+% Contact information
+\centerline{\href{mailto:anna.perev@gmail.com}{anna.perev@gmail.com} | +49 159 0647 7609 | Munich, Germany}
+\centerline{\href{https://www.linkedin.com/in/aperev}{linkedin.com/in/aperev} | \href{https://github.com/annaperev}{github.com/annaperev}}
+
+\vspace{-10pt}
+
+% Summary
+\section*{Summary}
+Full Stack Developer (React/Java) with 10+ years expertise in business analysis/ERP and 4 years in cloud-native microservices. Specialized in high-traffic marketplaces, scalable architecture, and business process optimization (Logistics/Finance). Committed to TDD, code quality, and driving Agile delivery.
+
+% Skills
+\section*{Skills}
+\textbf{Languages:} Java, Kotlin, TypeScript, JavaScript, SQL \\
+\textbf{Frontend:} React, Preact, Redux, Jotai \\
+\textbf{Backend:} Spring Boot, Spring MVC, Maven, PostgreSQL, Cassandra, Kafka \\
+\textbf{Tools/DevOps:} Git, Docker, IntelliJ IDEA, JUnit, TestNG, CI/CD \\
+\textbf{Spoken Languages:} English (Advanced), German (Elementary), Russian (Native)
+
+\vspace{-6.5pt}
+
+% Experience
+\section*{Experience}
+\textbf{Full Stack Developer,} AutoScout24 (autoscout24.de) \hfill Aug 2021 -- Present \\
+\vspace{-9pt}
+\begin{itemize}
+  \item Develop high-traffic marketplace features (Kotlin/Java) and drive CI/CD pipeline improvements in an Agile environment
+  \item Build responsive frontends (React/Preact) implementing atomic state management (Redux/Jotai) for scalability
+  \item Work closely with UX/UI and Product teams to deliver end-to-end features with a focus on maintainability and performance
+\end{itemize}
+
+\textbf{Java Developer,} Drishticon Inc. \hfill Oct 2020 -- Jul 2021 \\
+\vspace{-9pt}
+\begin{itemize}
+  \item Developed Spring Boot microservices for Walmart Mexico with high-availability APIs and IBM Sterling integration
+  \item Established reliability via Unit/Integration testing (JUnit/TestNG) and configured distributed system monitoring (Cassandra)
+\end{itemize}
+
+\textbf{Junior Java Developer,} LLC "Croc Region" \hfill Sep 2019 -- Sep 2020 \\
+\vspace{-9pt}
+\begin{itemize}
+  \item \textbf{fips.ru:} Engineered workflow system; defined Xtend data models and executed complex SQL migrations
+  \item \textbf{gazprom-neft.ru:} maintained digital worker testing; fixed React components and managed PostgreSQL DBs
+\end{itemize}
+
+\textbf{Junior Developer,} JSC «Croc Incorporated» \hfill Oct 2018 -- Jan 2019 \\
+\vspace{-9pt}
+\begin{itemize}
+  \item Supported internal automation tools (Cognos TM1, Jive) and maintained legacy Java EE applications with Maven
+\end{itemize}
+
+\textbf{Senior Consultant / Analyst,} JSC «Croc Incorporated» \& Others \hfill Jul 2007 -- Sep 2018 
+\vspace{-9pt}
+\begin{itemize}
+  \item Managed large-scale ERP implementations (MS Dynamics AX/NAV) and led requirements analysis/integration (ESB, CDC)
+\end{itemize}
+
+\vspace{-6.5pt}
+
+% Education
+\section*{Education}
+\textbf{Moscow Engineering Physics Institute (MEPhI)} -- Bachelor's, Computer Science and Management Processes \hfill 2007 \linebreak[2]
+\textbf{Certifications:} Oracle Certified Professional: Java SE 11 (1Z0-815); MS Dynamics AX/NAV; MS SQL Server Analysis 
+
+\end{document}

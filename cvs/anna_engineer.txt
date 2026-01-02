@@ -1,0 +1,47 @@
+ANNA PEREVOZNIKOVA
+Munich, Germany | +4915906477609 | anna.perev@gmail.com | https://www.linkedin.com/in/aperev | github.com/annaperev
+
+SUMMARY
+Full Stack Developer (React/Java) with a strong background in business analysis and ERP consulting. Was involved in building high-traffic web marketplaces and scalable microservices. 
+4 years of modern Java/Cloud development with 10+ years of deep business process expertise (Logistics, Finance, ERP).
+
+SKILLS
+Languages: Java (SE/EE), Kotlin, TypeScript, JavaScript, SQL
+Frontend: React, Preact, Redux, Jotai (Atomic state management), WebClient
+Backend: Spring Boot, Spring MVC, Maven, PostgreSQL, Cassandra, Kafka
+Tools/DevOps: Git, Docker, IntelliJ IDEA, JUnit, TestNG, CI/CD
+Languages: English (Advanced), German (Elementary), Russian (Native)
+
+EXPERIENCE
+Full Stack Developer — AutoScout24 (autoscout24.de)  Jan 2021 – Present
+- Develop and maintain high-traffic automotive marketplace features using Kotlin and Java backend services
+- Created responsive frontend components using React and Preact; worked closely with UX/UI designers to enhance user experience
+- Implemented complex state management solutions utilizing Redux and Jotai, improving application scalability and maintainability
+- Collaborate within an Agile environment to drive feature delivery, code reviews, and CI/CD pipeline improvements
+
+Java Developer — Drishticon Inc.  Oct 2020 – Dec 2020
+- Developed Spring Boot microservices for Walmart Mexico, focusing on high-availability API development
+- Implemented seamless integration with IBM Sterling Order Management system
+- Established comprehensive Unit and Integration testing strategies using JUnit and TestNG to ensure system reliability
+- Configured log rotation and monitoring for distributed systems (Cassandra, Maven stack)
+
+Junior Java Developer — LLC "Croc Region"  Sep 2019 – Sep 2020
+- fips.ru: Engineered a workflow management system; defined data models in Xtend and executed complex SQL migrations
+- gazprom-neft.ru: Maintained digital worker testing for oil depots; performed bug fixing on React components and maintained PostgreSQL databases
+- Etihad: Built a parking management prototype integrating "Securos" license plate recognition APIs
+
+Junior Developer — JSC «Croc Incorporated»  Oct 2018 – Jan 2019
+- Supported internal automation tools including Cognos TM1 (Cube building, TurboIntegrator processes) and Jive intranet
+- Maintained legacy Java EE applications and streamlined build processes using Maven
+
+Senior Consultant / Analyst — JSC «Croc Incorporated» & Others  Jul 2007 – Sep 2018
+- Managed large-scale ERP implementations (MS Dynamics AX/NAV) for major clients (Aeroflot Technics, Naryanmarneftegaz)
+- Led requirements analysis, system testing, and integration planning (ESB, CDC, Web-methods)
+
+EDUCATION
+Moscow Engineering Physics Institute (MEPhI) — Bachelor's, Computer Science and Management Processes (Engineer-Mathematician)
+
+CERTIFICATIONS & PROJECTS
+- Oracle Certified Professional: Java SE 11 Programmer I (1Z0-815)
+- Business Analyzer Core: Custom logic implementation — github.com/IvanCherepica/business-analizer-core
+- Certifications: MS Dynamics AX/NAV Financials & Trade, MS SQL Server Analysis Services
